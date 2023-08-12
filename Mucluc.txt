@@ -1,0 +1,20 @@
+Chương 2: Nguyên lý điều chế xung pwm với timer 1 ( k dùng biến trở )
+Giải thích bộ timer 1 ( 16bit )
+
+Chương 3: Kiểm tra độ rộng xung pwm khi dùng biến trở bằng servo
+Góc quay servo thay đổi phụ thuộc vào độ rộng xung
+Fast mode - non invert và invert
+Phase mode - non invert và invert
+Giải thích công thức fast mode và phase mode
+Bảng số liệu
+
+Chương 4: Kết quả
+4.1) Điều chế xung pwm (k dùng biến trở)
+Sơ đồ mô phòng
+Hình ảnh kết quả
+4.2) kiểm tra xung pwm khi dùng biến trở bằng servo
+Hình ảnh thực tế sơ đồ kết nối
+Hình ảnh kết quả
+
+Phụ lục code ( 2 file code )
+
